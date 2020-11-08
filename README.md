@@ -33,7 +33,12 @@ Here are some ideas to get you started:
   - Kotlin/Native (getting started)
   - Competitive Programming
     - [atcoder](https://atcoder.jp/users/konabe)
-  - 
+  - WebFront
+    - Vue.js/React.js
+  - BackEnd
+    - Express.js/ASP.NET Core/
+  - Cloud
+    - Azure/Firebase/Heroku/AWS
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
