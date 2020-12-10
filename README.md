@@ -5,43 +5,31 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-  - developer
-    - React.js
-    - Xamarin.Android, Xamarin.iOS
-    - ASP.NET / ASP.NET Core
-    - Azure Pipelines
+  - SmartphoneApp Developer
+    - Xamarin.Native, React
     
 - 🌱 I’m currently learning (the following are got skills) ...
-  - iOS(Native)
-    - env.: Swift/Xcode/CocoaPods/
-    - view: AutoLayout
-    - library: RealmSwift/RxSwift
-    - arch.: MVC/Layered Architecture
-    - DevOps: XCTest/Github Actions/
-  - Android(Native)
-    - env.: Kotlin/Java
-    - view: Constraint Layout
-    - library: RealmSwift/RxSwift
-    - arch.: MVC/Layered Architecture
-    - DevOps: XCTest/Github Actions/
-  - Xamarin.Native (+ work exp.)
-    - env.: C#/Visual Studio for Mac/.NET Framework/mono/msbuild/
-    - library: Xamarin.Essentials/MVVMCross
-    - arch.: MVVM
-    - DevOps: Azure Pipelines/AppCenter
-  - Flutter (ongoing)
-  - Kotlin/Native (getting started)
+  - SmartphoneApp
+    - iOS(Swift)/Android(Kotlin)
+  - CrossPlatform
+    - Xamarin.Native/Flutter/KotlinNative
   - Competitive Programming
     - [atcoder](https://atcoder.jp/users/konabe)
   - WebFront
-    - Vue.js/React.js
+    - Vue(Vuex, Nuxt)/React(Redux, Gatsby)
   - BackEnd
-    - Express.js/ASP.NET Core/
+    - Express/ASP.NET Core/Nest
   - Cloud
     - Azure/Firebase/Heroku/AWS
+  - DataScience
+    - Python/Numpy/Scipy
+  - Blockchain
+    - Solidity/Drizzle/Ganache
 - 👯 I’m looking to collaborate on ...
+  - (Mental)Healthcare startup
+  - UI/UX professional company
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
+  - Machine Learning, Information Theory, Xamarin, CrossPlatform, BtoGtoC business
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  - email on profile
