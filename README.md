@@ -5,8 +5,11 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-  - SmartphoneApp Developer
-    - Xamarin.Native, React
+  - iOS Developer
+    - Swift
+  - SmartphoneApp Developer (~ 2020/12)
+    - Xamarin.Native, React-Redux
+  - Gatsby.js, Vuex (Side)
     
 - 🌱 I’m currently learning (the following are got skills) ...
   - SmartphoneApp
