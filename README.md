@@ -5,11 +5,13 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-  - iOS Developer
+  - iOS Developer (2021/01 ~ 2021/06 now)
     - Swift
-  - SmartphoneApp Developer (~ 2020/12)
+      - VIPER, MVVM(using RxSwift)
+  - Frontend Developer (2021/01 ~ 2021/04)
+    - Gatsby.js (React), Vuex, Firebase
+  - SmartphoneApp & Frontend Developer (~ 2020/12)
     - Xamarin.Native, React-Redux
-  - Gatsby.js, Vuex (Side)
     
 - 🌱 I’m currently learning (the following are got skills) ...
   - SmartphoneApp
